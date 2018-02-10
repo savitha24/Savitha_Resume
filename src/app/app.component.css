@@ -1,0 +1,115 @@
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.header{
+    width:400px;
+    height: 600px;
+    background-color:rgba(255,255,255,0.79);;
+    border: 4px; 
+    border-radius: 4px;
+}
+.skills {
+    margin-bottom: 30px;
+}
+.skills-list {
+    font-size: 18px;
+}
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.bodycont{
+    width:719px;
+    height: 930px;
+    background-color:rgba(255,255,255,0.79);;
+    border: 4px; 
+    border-radius: 4px;
+    margin-left:-134px;
+    margin-top:6px;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+   
+    
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+.work {
+    
+    background: rgba(255,255,255,0.79);
+    box-shadow: 0 0 12px rgba(0,0,0,0.08);
+}
+li {
+    /* display: list-item; */
+    text-align: -webkit-match-parent;
+}
+.fa {
+    margin-right: 5px;
+    top: 4px;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.fa-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: none;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.imgp{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nocolor{
+    color: gray;
+}
+.hcolor{
+    color: green;
+}
+h4 {
+    font-size: 18px;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
